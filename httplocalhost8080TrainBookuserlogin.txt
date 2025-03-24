@@ -1,0 +1,11 @@
+http://localhost:8080/TrainBook/userlogin
+
+UN: admin
+PW: admin
+
+
+PW: Paridhi12345
+UN: system
+
+
+Oracle Enterprise Manager Database Express URL: https://localhost:5500/em
